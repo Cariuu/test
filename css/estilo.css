@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    background-color: #bdbbb8;
+    font-family: Calibri;
+    
+}
+
+h1 {
+	color: #000000;
+	margin: 1px 2px 3px;
+	padding: 1px 2px 1px;
+	border: 2px solid black;
+}
+h2 {
+	color: #047a04;
+	font-family: 'Franklin Gothic Medium';
+	font-style: oblique;
+	font-size: medium;
+	float: left;
+}
+h3 {
+	color: #047a04;
+	font-family: 'Franklin Gothic Medium';
+	font-style: oblique;
+	font-size: medium;
+	float: right;
+}
+h4{
+	color: black;
+	font-family: 'Times New Roman', Times, serif;
+}
